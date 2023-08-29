@@ -1,0 +1,10 @@
+.customli{
+    list-style: none;
+    margin: 0;
+    padding:5px 0px;
+}
+
+.customul{
+    padding: 0;
+    margin: 0;
+}
